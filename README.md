@@ -1,2 +1,0 @@
-# bizHacks
-webapp for bizHacks
